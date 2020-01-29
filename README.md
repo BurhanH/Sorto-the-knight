@@ -1,4 +1,4 @@
-# Saul-the-knight
-A game about Saul the knight. Prototype. Platformer. 2D.
+# Sorto-the-knight
+A game about Sorto the knight. Prototype. Platformer. 2D.
 
 ## Under construction...
