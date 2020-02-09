@@ -4,4 +4,8 @@
 
 A game about Sorto the knight. Prototype. Platformer. 2D.
 
+# Screenshots
+
+![alt text](https://github.com/BurhanH/Sorto-the-knight/raw/master/samples/prototype-image-1.png "Automaton") <br> 
+
 ## Under construction
